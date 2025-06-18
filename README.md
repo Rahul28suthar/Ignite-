@@ -1,3 +1,29 @@
+🔥 Ignite – Game Discovery Platform
+Ignite is a modern, animated game discovery platform built using React, Framer Motion, Redux, and Axios. It fetches data from an external API to showcase popular, upcoming, and newly released games with beautiful UI transitions and detailed views for each game.
+
+<!-- Optional banner image -->
+
+🚀 Features
+🎮 Browse latest, upcoming, and popular games
+
+🔍 Search games by name
+
+📃 Game detail view with:
+
+Description
+
+Screenshots
+
+Platform info
+
+Ratings
+
+🧩 Smooth animations using Framer Motion
+
+⚙️ State management with Redux
+
+📡 API integration using Axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
