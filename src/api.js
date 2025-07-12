@@ -19,7 +19,7 @@ const currentDate = `${currentYear}-${currentMonth}-${currentDay}`;
 const lastYear = `${currentYear - 1}-${currentMonth}-${currentDay}`;
 const nextYear = `${currentYear + 1}-${currentMonth}-${currentDay}`;
 
-const apiKey = "a3e89d66151e48e8a14a1fd08918aab8";
+const apiKey = "your-api-key";
 
 
 const popular_games = `?dates=${lastYear},${currentDate}&ordering=-rating&page_size=10&key=${apiKey}`;
